@@ -1,0 +1,126 @@
+<mjml>
+  <mj-head>
+    <mj-title>Stripe notification</mj-title>
+
+    <mj-attributes>
+      <mj-all font-family="Helvetica, sans-serif" />
+      <mj-text
+        font-weight="300"
+        font-size="14px"
+        color="#425466"
+        line-height="20px"
+        padding="0px"
+      />
+      <mj-section padding="0px" />
+      <mj-image padding="0px" />
+      <mj-column padding-top="0px" padding-bottom="0px" />
+      <mj-wrapper padding-top="0px" padding-bottom="0px" />
+      <mj-button
+        background-color="#635BFF"
+        border-radius="24px"
+        font-weight="bold"
+        inner-padding="12px 25px 12px 25px"
+        font-size="14px"
+      />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#F1F5F9">
+    <mj-section padding="20px"></mj-section>
+
+    <mj-wrapper background-color="#ffffff">
+      <mj-section padding="50px 64px 30px 64px">
+        <mj-column width="100%">
+          <mj-image align="left" src="./assets/logo.png" alt="" width="86px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%" padding="0px 64px 0px 64px">
+          <mj-text align="left">
+            <p>Hello,</p>
+            <p>
+              The advancement of no-code tools means you no longer need to
+              compromise on functionality. Whether you’re building your first
+              SaaS product, or looking for ways to grow, no-code can help you
+              reach your goals faster.
+            </p>
+            <p>Join us on <strong>Thursday, March 16 | 9:00 a.m.–9:30 a.m. PT / 12:00 p.m.–12:30 p.m. ET</strong> as we hear from Rob Walling, general partner at TinySeed, and Stripe experts about the latest developments in no-code tools.</p>
+            <p><strong>We’ll cover how you can use no-code to:</strong></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 64px 8px 64px">
+        <mj-group width="100%">
+          <mj-column width="24px" padding-top="2px">
+            <mj-image src="./assets/bullet.png" alt="" width="12px" />
+          </mj-column>
+          <mj-column width="85%">
+            <mj-text>
+              Test your MVP and get market validation
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0px 64px 8px 64px">
+        <mj-group width="100%">
+          <mj-column width="24px" padding-top="2px">
+            <mj-image src="./assets/bullet.png" alt="" width="12px" />
+          </mj-column>
+          <mj-column width="85%">
+            <mj-text>
+              Accept payments and manage subscriptions
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0px 64px 0px 64px">
+        <mj-group width="100%">
+          <mj-column width="24px" padding-top="2px">
+            <mj-image src="./assets/bullet.png" alt="" width="12px" />
+          </mj-column>
+          <mj-column width="85%">
+            <mj-text>
+              Expand into new markets 
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="16px 0px 0px 0px">
+        <mj-column>
+          <mj-button href="#">Register today</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 64px 40px 64px">
+        <mj-column>
+          <mj-text
+            ><p>Thanks,<br />The Stripe team</p></mj-text
+          >
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#F6F9FC" padding="40px 64px">
+      <mj-column width="100%">
+        <mj-text padding-bottom="12px" font-size="12px" line-height="15px" color="#525F7F" align="left">
+          This email was sent to hello@SmilesDavis.yeah. If you'd rather not receive this kind of email, you can <a href="#" target="_blank" rel="noopener" style="color: rgb(99, 91, 255); text-decoration: none;">unsubscribe or manage your email preferences.</a>
+        </mj-text>
+
+        <mj-text font-size="12px" line-height="15px" color="#525F7F" align="left">
+          <a style="text-decoration: none; color: #525f7f;" href="#" target="_blank" rel="noopener">Stripe</a>, <a style="text-decoration: none; color: #525f7f;" href="#" target="_blank" rel="noopener">354 Oyster Point Boulevard, South San Francisco, CA 94080</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column padding-top="20px" width="100%">
+        <mj-image align="left" src="./assets/gray-logo.png" alt="" width="42px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px"></mj-section>
+  </mj-body>
+</mjml>
