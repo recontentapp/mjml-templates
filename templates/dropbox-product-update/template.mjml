@@ -1,0 +1,145 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dropbox product update</mj-title>
+
+    <mj-attributes>
+      <mj-all font-family="Helvetica, sans-serif" />
+      <mj-text
+        font-weight="300"
+        font-size="18px"
+        color="#000"
+        line-height="26px"
+        padding="0px"
+      />
+      <mj-section padding="0px" />
+      <mj-image padding="0px" />
+      <mj-column padding-top="0px" padding-bottom="0px" />
+      <mj-wrapper padding-top="0px" padding-bottom="0px" />
+      <mj-button
+        background-color="#0061FF"
+        inner-padding="14px 50px"
+        font-size="16px"
+        border-radius="0px"
+      />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#fff">
+    <mj-wrapper
+      background-color="#ffffff"
+      border="1px #f7f8f8 solid"
+      border-radius="6px"
+    >
+      <mj-section padding="20px 25px 0px 25px">
+        <mj-column width="100%">
+          <mj-image align="left" src="./assets/logo.png" alt="" width="150px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="40px">
+        <mj-column width="100%" padding="0px 25px">
+          <mj-text
+            align="left"
+            font-size="32px"
+            font-weight="700"
+            line-height="36px"
+            padding-bottom="30px"
+          >
+            Introducing Dropbox Rewind
+          </mj-text>
+
+          <mj-text align="left" font-size="20px" line-height="30px">
+            Now part of your Dropbox plan: Rewind your entire account when
+            catastrophe strikes, with just a few clicks.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="30px" padding-bottom="50px">
+        <mj-column>
+          <mj-button href="#" align="left">Learn more</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image align="center" src="./assets/product.gif" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="50px 25px 0px 25px">
+        <mj-column width="100%">
+          <mj-text align="left" padding-bottom="16px">
+            Keep your important files even safer with Dropbox Rewind, available
+            exclusively on Plus and Professional plans. Accidentally made a
+            bunch of changes? Been targeted by ransomware? Rewind lets you
+            <a style="color: #0061ff" href="#"
+              >restore folders or your entire account</a
+            >, giving you:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="15px 25px 0px 25px">
+        <mj-group width="100%">
+          <mj-column width="24px">
+            <mj-text>•</mj-text>
+          </mj-column>
+          <mj-column width="85%">
+            <mj-text>
+              <b>Peace of mind:</b> Quickly undo changes without contacting
+              support
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="15px 25px 0px 25px">
+        <mj-group width="100%">
+          <mj-column width="24px">
+            <mj-text>•</mj-text>
+          </mj-column>
+          <mj-column width="85%">
+            <mj-text>
+              <b>More control:</b> Identify changes in a timeline to restore
+              exactly what you need
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="15px 25px 0px 25px">
+        <mj-group width="100%">
+          <mj-column width="24px">
+            <mj-text>•</mj-text>
+          </mj-column>
+          <mj-column width="85%">
+            <mj-text>
+              <b>Extra protection:</b> Rewind up to 30 days with Plus, or 180
+              days with Professional
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="30px" padding-bottom="50px">
+        <mj-column>
+          <mj-button href="#" align="left">Learn more</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="12px 25px" background-color="#f7f8f8">
+      <mj-column width="100%">
+        <mj-text color="#adb1b4" font-size="11px" line-height="16px">
+          <span>Dropbox International Unlimited Company</span><br /><span
+            >One Park Place, Hatch St. Dublin 2, Ireland</span
+          ><br /><a style="color: #0061ff" href="#"
+            >View Privacy Policy</a
+          >
+          | <a style="color: #0061ff" href="#">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
